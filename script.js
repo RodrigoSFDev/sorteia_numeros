@@ -7,6 +7,6 @@ for(let index = 1; index <= 100; index += 1){
 }
 
 btnSortear.addEventListener('click', () => {
-    msg.innerHTML = 'O número sorteado foi: ' + resultado[Math.floor(Math.random() * resultado.length)];
+    msg.innerHTML = 'O número sorteado foi: ' + resultado[parseInt(Math.random() * resultado.length)];
 })
 
