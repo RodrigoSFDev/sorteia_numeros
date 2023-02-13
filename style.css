@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: cornflowerblue;
+    width: 100%;
+
+}
+
+section.sorte {
+    min-width: 500px;
+    background-color: azure;
+   text-align: center;
+   margin: 200px;
+  
+}
+
+section.sorte button {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blue;
+    color: azure;
+    margin: 20px;
+}
+
+footer {
+    color: azure;
+   text-align: center;
+   background-color: black;
+}

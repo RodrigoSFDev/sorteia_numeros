@@ -1,1 +1,2 @@
 # sorteia_numeros
+SORTEIA NÚMEROS DE MODO ALEATÓRIO DE 1 A 100.
